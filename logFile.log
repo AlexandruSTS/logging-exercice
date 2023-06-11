@@ -1,0 +1,12 @@
+2023-06-11 09:43:09,754 WARN [main] b.e.a.Main [Main.java:13] Message WARN
+2023-06-11 09:43:09,757 ERROR [main] b.e.a.Main [Main.java:14] Message ERROR
+2023-06-11 09:43:31,720 WARN [main] b.e.a.Main [Main.java:13] Message WARN
+2023-06-11 09:43:31,722 ERROR [main] b.e.a.Main [Main.java:14] Message ERROR
+2023-06-11 09:44:30,575 WARN [main] b.e.a.Main [Main.java:13] Message WARN
+2023-06-11 09:44:30,578 ERROR [main] b.e.a.Main [Main.java:14] Message ERROR
+2023-06-11 09:44:45,292 WARN [main] b.e.a.Main [Main.java:13] Message WARN
+2023-06-11 09:44:45,294 ERROR [main] b.e.a.Main [Main.java:14] Message ERROR
+2023-06-11 09:44:49,600 WARN [main] b.e.a.Main [Main.java:13] Message WARN
+2023-06-11 09:44:49,603 ERROR [main] b.e.a.Main [Main.java:14] Message ERROR
+2023-06-11 09:44:52,785 WARN [main] b.e.a.Main [Main.java:13] Message WARN
+2023-06-11 09:44:52,787 ERROR [main] b.e.a.Main [Main.java:14] Message ERROR
